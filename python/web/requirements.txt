@@ -1,0 +1,4 @@
+PyMySQL
+Flask
+markupsafe
+python-dotenv
